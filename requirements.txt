@@ -1,0 +1,8 @@
+numpy
+pandas
+PyMuPDF
+python-docx
+faiss-cpu
+sentence-transformers
+reportlab
+gradio
